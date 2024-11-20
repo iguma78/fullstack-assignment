@@ -26,13 +26,6 @@ Build a full-stack application that includes:
        {"x": 3, "y": 30}
      ]
      ```
-   - `POST /data`: Accepts a JSON object with `x` and `y` values to add a new data point to the list.
-     ```json
-     {
-       "x": 4,
-       "y": 40
-     }
-     ```
 
 2. **Storage:**
    - Data can be stored in memory (no database setup required).
